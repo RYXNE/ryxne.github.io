@@ -33,7 +33,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 * Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
 
-* Joined as a 'Software Developer' for the Product Development Team for TCS BaNCS(™️), a TCS-owned Global Banking Platform suite that is running some of the major Banks and other Financial Institutions' core IT architecture. I developed features for the banking product using Java, XML, SQL and JavaScript. This gave me an opportunity to learn more about banking functionalities, focusing more into Loan Services.
+* Joined as a 'Software Developer' in February 2022 for the Product Development Team for TCS BaNCS(™️), a TCS-owned Global Banking Platform suite that is running some of the major Banks and other Financial Institutions' core IT architecture. I developed features for the banking product using Java, XML, SQL and JavaScript. This gave me an opportunity to learn more about banking functionalities, focusing more into Loan Services.
 
 * In November 2022, I qualified the TCS Elevate Wings Program in my first attempt and attained the Digital Cadre, one of the most sought-after profiles at TCS. With this acheivement, I took responsibility to lead a team of 5 to personalize the product and handle all business requirements of a valued banking client of TCS. I collaborated with major stakeholders and other cross-functional teams to design, develop, test and deploy the personalized product.
 
@@ -47,11 +47,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-# 💼 Education
+# 📚 Education
 ------
-**EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 - Present**
-**Lille, France**
+**EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 - Present**<br>
+**<sup><sup><sup>Lille, France</sup></sup></sup>**
 
+* Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
+
+**CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2018 - Jul 2021**<br>
+**<sup><sup><sup>Bangalore, India</sup></sup></sup>**
+
+* Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
 
 
 Site-wide configuration
