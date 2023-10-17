@@ -28,13 +28,14 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 💼 Work Experience
 ------
-## Tata Consultancy Services (TCS) <p style='text-align: right;'>  Bangalore, India </p>
+## Tata Consultancy Services (TCS)                                                            Oct 2021 - Aug 2023
+## Bangalore, India
 
-Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
+* Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
 
-Joined as a 'Software Developer' for the Product Development Team for TCS BaNCS(™️), a TCS-owned Global Banking Platform suite that is running some of the major Banks and other Financial Institutions' core IT architecture. I developed features for the banking product using Java, XML, SQL and JavaScript. This gave me an opportunity to learn more about banking functionalities, focusing more into Loan Services.
+* Joined as a 'Software Developer' for the Product Development Team for TCS BaNCS(™️), a TCS-owned Global Banking Platform suite that is running some of the major Banks and other Financial Institutions' core IT architecture. I developed features for the banking product using Java, XML, SQL and JavaScript. This gave me an opportunity to learn more about banking functionalities, focusing more into Loan Services.
 
-In November 2022, I qualified the TCS Elevate Wings Program in my first attempt and attained the Digital Cadre, one of the most sought-after profiles at TCS. With this acheivement, I took responsibility to lead a team of 5 to personalize the product and handle all business requirements of a valued banking client of TCS. I collaborated with major stakeholders and other cross-functional teams to design, develop, test and deploy the personalized product.
+* In November 2022, I qualified the TCS Elevate Wings Program in my first attempt and attained the Digital Cadre, one of the most sought-after profiles at TCS. With this acheivement, I took responsibility to lead a team of 5 to personalize the product and handle all business requirements of a valued banking client of TCS. I collaborated with major stakeholders and other cross-functional teams to design, develop, test and deploy the personalized product.
 
 
 Getting started
