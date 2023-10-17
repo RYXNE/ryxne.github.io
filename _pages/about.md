@@ -28,8 +28,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 💼 Work Experience
 ------
-**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 &rarr Aug 2023**<br>
-**Bangalore, India**
+**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 &#8594; Aug 2023**<br>
+**<sup>Bangalore, India</sup>**
 
 * Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
 
@@ -49,20 +49,26 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 📚 Education
 ------
-**EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 &rarr Present**<br>
+**EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 &#8594; Present**<br>
 **<sup>Lille, France</sup>**
 
 * Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
 
-**CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2018 &rarr Jul 2021**<br>
+**CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2018 &#8594; Jul 2021**<br>
 **<sup>Bangalore, India</sup>**
 
 * Graduated with a triple major Bachelor of Science Degree in Computer Science, Mathematics and Statistics. The degree included courses such as Linear Algebra, Statistical Inference, Time Series Analysis & Forecasting.
 
 
-Site-wide configuration
+
+<!-- Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
+
+# 📜 Technical Skills
+------
+
+
 
 Create content & metadata
 ------
