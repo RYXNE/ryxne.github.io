@@ -50,14 +50,14 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 # 📚 Education
 ------
 **EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 - Present**<br>
-**<sup><sup><sup>Lille, France</sup></sup></sup>**
+**<sup>Lille, France</sup>**
 
 * Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
 
 **CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2018 - Jul 2021**<br>
-**<sup><sup><sup>Bangalore, India</sup></sup></sup>**
+**<sup><sup>Bangalore, India</sup></sup>**
 
-* Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
+* Graduated with a triple major Bachelor of Science Degree in Computer Science, Mathematics and Statistics. The degree included courses such as Linear Algebra, Statistical Inference, Time Series Analysis & Forecasting.
 
 
 Site-wide configuration
