@@ -28,8 +28,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 💼 Work Experience
 ------
-**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 - Aug 2023**<br>
-**Bangalore, India**
+<!-- **Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 - Aug 2023**<br>
+**Bangalore, India** -->
 
 <template v-slot:default>
 
@@ -66,7 +66,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
 
 **CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2018 - Jul 2021**<br>
-**<sup><sup>Bangalore, India</sup></sup>**
+**<sup>Bangalore, India</sup>**
 
 * Graduated with a triple major Bachelor of Science Degree in Computer Science, Mathematics and Statistics. The degree included courses such as Linear Algebra, Statistical Inference, Time Series Analysis & Forecasting.
 
