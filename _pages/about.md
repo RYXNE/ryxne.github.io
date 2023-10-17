@@ -28,8 +28,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 💼 Work Experience
 ------
-**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 - Aug 2023**
-
+**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 - Aug 2023**<br>
 **Bangalore, India**
 
 * Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
@@ -39,14 +38,21 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * In November 2022, I qualified the TCS Elevate Wings Program in my first attempt and attained the Digital Cadre, one of the most sought-after profiles at TCS. With this acheivement, I took responsibility to lead a team of 5 to personalize the product and handle all business requirements of a valued banking client of TCS. I collaborated with major stakeholders and other cross-functional teams to design, develop, test and deploy the personalized product.
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
+
+# 💼 Education
+------
+**EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 - Present**
+**Lille, France**
+
+
 
 Site-wide configuration
 ------
