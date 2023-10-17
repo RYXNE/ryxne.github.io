@@ -31,6 +31,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 **Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 - Aug 2023**<br>
 **Bangalore, India**
 
+<template v-slot:default>
+
+  # Tata Consultancy Services (TCS)
+
+</template>
+<template v-slot:right>
+
+  # Oct 2021 - Aug 2023
+
+</template>
+
 * Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
 
 * Joined as a 'Software Developer' in February 2022 for the Product Development Team for TCS BaNCS(™️), a TCS-owned Global Banking Platform suite that is running some of the major Banks and other Financial Institutions' core IT architecture. I developed features for the banking product using Java, XML, SQL and JavaScript. This gave me an opportunity to learn more about banking functionalities, focusing more into Loan Services.
