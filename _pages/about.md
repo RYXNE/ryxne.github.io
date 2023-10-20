@@ -54,7 +54,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 **EDHEC Business School  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2023 &#8594; Present**<br>
 **<sup>Lille, France</sup>**
 
-![EDHEC logo](/images/edhec.jpg){: .align-right width="250px"}
+![EDHEC logo](/images/edhec.jpg){: .align-right width="150px"}
 
 * Pursuing an MSc degree in Data Analytics & Artificial Intelligence. Courses include Machine Learning, Statistical Models, Python Programming, Data Mining and Data Visualization.
 
