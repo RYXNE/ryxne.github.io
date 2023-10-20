@@ -5,6 +5,27 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+<div id="gallery">
+    {% for i in (512..529) %}
+      <div>
+        <img src="https://picsum.photos/600/600/?image={{ i }}" />
+        <a href="#lightbox-{{ i }}">{{ i }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  
+  {% for i in (512..529) %}
+    <div class="lightbox" id="lightbox-{{ i }}">
+      <div class="content">
+        <img src="https://picsum.photos/1920/1080/?image={{ i }}" />
+        <div class="title">No. <b>{{ i }}</b> from Picsum</div>
+        <a class="close" href="#gallery"></a>
+      </div>
+    </div>
+  {% endfor %}
+
+
 <!-- <html>
     <head> -->
         <!-- <style>
