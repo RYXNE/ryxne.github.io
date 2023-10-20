@@ -395,10 +395,12 @@ collection: portfolio
   <div class="gallery">
     <a href="https://picsum.photos/600/600/?image=512" data-lightbox="gallery">
       <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
+      <div class="caption">Caption for Image 1</div>
     </a>
 
     <a href="https://picsum.photos/600/600/?image=513" data-lightbox="gallery">
       <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
+      <div class="caption">Caption for Image 2</div>
     </a>
 
   </div>
@@ -419,6 +421,7 @@ collection: portfolio
     .gallery a {
       margin: 10px;
       text-decoration: none;
+      position: relative; /* To make captions relative to the image */
     }
   
     .gallery img {
@@ -427,5 +430,23 @@ collection: portfolio
       border: 1px solid #ccc;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     }
+  
+    .caption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      display: none;
+    }
+  
+    /* Show the caption on hover */
+    .gallery a:hover .caption {
+      display: block;
+    }
   </style>
+  
   
