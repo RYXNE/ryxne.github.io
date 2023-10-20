@@ -337,8 +337,8 @@ collection: portfolio
 
 
   <!-- -------------------------------------------------------------------------- -->
-
-<style>
+<!-- Basic Code  -->
+<!-- <style>
   .container {
     text-align: center;
     margin: 20px;
@@ -372,7 +372,6 @@ collection: portfolio
   <h2>Photo Gallery</h2>
 
   <div class="gallery">
-    <!-- Replace the following lines with your image and caption entries -->
     <div class="gallery-item">
       <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
       <div class="caption">Caption for Image 1</div>
@@ -382,8 +381,51 @@ collection: portfolio
       <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
       <div class="caption">Caption for Image 2</div>
     </div>
+  </div>
+</div> -->
 
-    <!-- Add more gallery items as needed -->
+  <!-- -------------------------------------------------------------------------- -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script>
+
+<div class="container">
+  <h2>Photo Gallery</h2>
+
+  <div class="gallery">
+    <a href="/path-to-your-image/image1.jpg" data-lightbox="gallery">
+      <img src="/path-to-your-image/thumbnail1.jpg" alt="Image 1">
+    </a>
+
+    <a href="/path-to-your-image/image2.jpg" data-lightbox="gallery">
+      <img src="/path-to-your-image/thumbnail2.jpg" alt="Image 2">
+    </a>
 
   </div>
 </div>
+
+<style>
+    .container {
+      text-align: center;
+      margin: 20px;
+    }
+  
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .gallery a {
+      margin: 10px;
+      text-decoration: none;
+    }
+  
+    .gallery img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+  
