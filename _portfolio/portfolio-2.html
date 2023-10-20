@@ -20,7 +20,7 @@ collection: portfolio
 
 
   <!-- Initial Code -->
-  <div id="gallery">
+  <!-- <div id="gallery">
     {% for i in (512..529) %}
       <div>
         <img src="https://picsum.photos/600/600/?image={{ i }}" />
@@ -37,7 +37,7 @@ collection: portfolio
         <a class="close" href="#gallery"></a>
       </div>
     </div>
-  {% endfor %}
+  {% endfor %} -->
 
   
   <!-- <div id="gallery">
@@ -299,7 +299,7 @@ collection: portfolio
     </div>
   </div> -->
 
-  <style>
+  <!-- <style>
     * {
       box-sizing: border-box;
     }
@@ -332,5 +332,58 @@ collection: portfolio
         width: 98%;
       }
     }
-  </style>
+  </style> -->
   
+
+
+  <!-- -------------------------------------------------------------------------- -->
+
+<style>
+  .container {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .gallery-item {
+    margin: 10px;
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .caption {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+</style>
+
+<div class="container">
+  <h2>Photo Gallery</h2>
+
+  <div class="gallery">
+    <!-- Replace the following lines with your image and caption entries -->
+    <div class="gallery-item">
+      <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
+      <div class="caption">Caption for Image 1</div>
+    </div>
+
+    <div class="gallery-item">
+      <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
+      <div class="caption">Caption for Image 2</div>
+    </div>
+
+    <!-- Add more gallery items as needed -->
+
+  </div>
+</div>
