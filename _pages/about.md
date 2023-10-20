@@ -28,7 +28,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 💼 Work Experience
 ------
-**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 &#8594; Aug 2023{: .align-right width="300px"}**<br>
+**Tata Consultancy Services (TCS)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct 2021 &#8594; Aug 2023**<br>
 **<sup>Bangalore, India</sup>**
 
 * Joined TCS as a 'Graduate Trainee' in October 2021 through the campus placements at CHRIST University. I underwent training for a period of 4 months, learning and gaining practical experience in fields such as Python Programming, Web Technologies, Data Visualisation, Java, CyberSecurity, DevOps and Agile methodologies. At the end of this period, I cleared my final induction evaluation and was ready to be assigned to projects.
