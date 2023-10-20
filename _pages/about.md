@@ -18,6 +18,8 @@ redirect_from:
 
 🎯 I'm also interested to have a more practical experience in other domains of Data Science, hoping to get exposed to the power Data holds in making effective decisions.
 
+🎮 On a different note, I enjoy Travelling, Hiking, Driving, Football, Video Games, and Photography. I also enjoy trying out new activites such as generating graphics through processing and exploring new cuisines :)
+
 
 
 <!-- A data-driven personal website
@@ -61,7 +63,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 **CHRIST University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2018 &#8594; Jul 2021**<br>
 **<sup>Bangalore, India</sup>**
 
-![Christ logo](/images/christ.jpg){: .align-right width="250px"}
+![Christ logo](/images/christ.jpg){: .align-right width="150px"}
 * Graduated with a triple major Bachelor of Science Degree in Computer Science, Mathematics and Statistics. The degree included courses such as Linear Algebra, Statistical Inference, Time Series Analysis & Forecasting.
 
 
