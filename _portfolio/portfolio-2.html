@@ -1,29 +1,59 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Sky Gallery"
+excerpt: "Gallery of Sky Pictures <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-<div id="gallery">
-    {% for i in (512..529) %}
-      <div>
-        <img src="https://picsum.photos/600/600/?image={{ i }}" />
-        <a href="#lightbox-{{ i }}">{{ i }}</a>
-      </div>
-    {% endfor %}
-  </div>
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+<style>
+    * {
+      box-sizing: border-box;
+    }
+  
+    body {
+      margin: 5px;
+      position: relative;
+    }
+  
+    .gallery-item {
+      display: grid;
+      height: calc(100vh - 10px);
+      grid-template: repeat(6, 1fr) / repeat(6, 1fr);
+      grid-gap: 0.5em;
+    }
+    @media (max-width: 800px) {
+      .gallery-item {
+        display: flex;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .gallery-item > div {
+        width: 48%;
+        margin: 1%;
+      }
+    }
+    @media (max-width: 800px) and (max-width: 350px) {
+      .gallery-item > div {
+        width: 98%;
+      }
+    }
+  
+    /* Add the rest of your CSS rules similarly */
+  </style>
+  
+  <!-- ---
+  layout: default
+  title: "Gallery"
+  --- -->
   
   {% for i in (512..529) %}
-    <div class="lightbox" id="lightbox-{{ i }}">
-      <div class="content">
-        <img src="https://picsum.photos/1920/1080/?image={{ i }}" />
-        <div class="title">No. <b>{{ i }}</b> from Picsum</div>
-        <a class="close" href="#gallery"></a>
-      </div>
+    <div class="gallery-item">
+      <img src="https://picsum.photos/600/600/?image={{ i }}" />
+      <a href="#lightbox-{{ i }}">{{ i }}</a>
     </div>
   {% endfor %}
+  
 
 
 <!-- <html>
