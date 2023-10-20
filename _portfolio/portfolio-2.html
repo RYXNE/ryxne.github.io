@@ -11,12 +11,184 @@ collection: portfolio
   title: "Gallery"
   --- -->
   
-  {% for i in (512..529) %}
+  <!-- {% for i in (512..529) %}
     <div class="gallery-item">
       <img src="https://picsum.photos/600/600/?image={{ i }}" />
       <a href="#lightbox-{{ i }}">{{ i }}</a>
     </div>
+  {% endfor %} -->
+
+
+  <!-- Initial Code -->
+  <!-- <div id="gallery">
+    {% for i in (512..529) %}
+      <div>
+        <img src="https://picsum.photos/600/600/?image={{ i }}" />
+        <a href="#lightbox-{{ i }}">{{ i }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  
+  {% for i in (512..529) %}
+    <div class="lightbox" id="lightbox-{{ i }}">
+      <div class="content">
+        <img src="https://picsum.photos/1920/1080/?image={{ i }}" />
+        <div class="title">No. <b>{{ i }}</b> from Picsum</div>
+        <a class="close" href="#gallery"></a>
+      </div>
+    </div>
+  {% endfor %} -->
+
+  
+  <div id="gallery">
+    {% assign gallery_items = [
+      {
+        id: 1,
+        thumbnail_url: "https://picsum.photos/600/600/?image=512",
+        lightbox_id: "lightbox-1",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=512",
+        lightbox_title: "No. <b>512</b> from Picsum"
+      },
+      {
+        id: 2,
+        thumbnail_url: "https://picsum.photos/600/600/?image=513",
+        lightbox_id: "lightbox-2",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=513",
+        lightbox_title: "No. <b>513</b> from Picsum"
+      },
+      {
+        id: 3,
+        thumbnail_url: "https://picsum.photos/600/600/?image=514",
+        lightbox_id: "lightbox-3",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=514",
+        lightbox_title: "No. <b>514</b> from Picsum"
+      },
+      {
+        id: 4,
+        thumbnail_url: "https://picsum.photos/600/600/?image=515",
+        lightbox_id: "lightbox-4",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=515",
+        lightbox_title: "No. <b>515</b> from Picsum"
+      },
+      {
+        id: 5,
+        thumbnail_url: "https://picsum.photos/600/600/?image=516",
+        lightbox_id: "lightbox-5",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=516",
+        lightbox_title: "No. <b>516</b> from Picsum"
+      },
+      {
+        id: 6,
+        thumbnail_url: "https://picsum.photos/600/600/?image=517",
+        lightbox_id: "lightbox-6",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=517",
+        lightbox_title: "No. <b>517</b> from Picsum"
+      },
+      {
+        id: 7,
+        thumbnail_url: "https://picsum.photos/600/600/?image=518",
+        lightbox_id: "lightbox-7",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=518",
+        lightbox_title: "No. <b>518</b> from Picsum"
+      },
+      {
+        id: 8,
+        thumbnail_url: "https://picsum.photos/600/600/?image=519",
+        lightbox_id: "lightbox-8",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=519",
+        lightbox_title: "No. <b>519</b> from Picsum"
+      },
+      {
+        id: 9,
+        thumbnail_url: "https://picsum.photos/600/600/?image=520",
+        lightbox_id: "lightbox-9",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=520",
+        lightbox_title: "No. <b>520</b> from Picsum"
+      },
+      {
+        id: 10,
+        thumbnail_url: "https://picsum.photos/600/600/?image=521",
+        lightbox_id: "lightbox-10",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=521",
+        lightbox_title: "No. <b>521</b> from Picsum"
+      },
+      {
+        id: 11,
+        thumbnail_url: "https://picsum.photos/600/600/?image=522",
+        lightbox_id: "lightbox-11",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=522",
+        lightbox_title: "No. <b>522</b> from Picsum"
+      },
+      {
+        id: 12,
+        thumbnail_url: "https://picsum.photos/600/600/?image=523",
+        lightbox_id: "lightbox-12",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=523",
+        lightbox_title: "No. <b>523</b> from Picsum"
+      },
+      {
+        id: 13,
+        thumbnail_url: "https://picsum.photos/600/600/?image=524",
+        lightbox_id: "lightbox-13",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=524",
+        lightbox_title: "No. <b>524</b> from Picsum"
+      },
+      {
+        id: 14,
+        thumbnail_url: "https://picsum.photos/600/600/?image=525",
+        lightbox_id: "lightbox-14",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=525",
+        lightbox_title: "No. <b>525</b> from Picsum"
+      },
+      {
+        id: 15,
+        thumbnail_url: "https://picsum.photos/600/600/?image=526",
+        lightbox_id: "lightbox-15",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=526",
+        lightbox_title: "No. <b>526</b> from Picsum"
+      },
+      {
+        id: 16,
+        thumbnail_url: "https://picsum.photos/600/600/?image=527",
+        lightbox_id: "lightbox-16",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=527",
+        lightbox_title: "No. <b>527</b> from Picsum"
+      },
+      {
+        id: 17,
+        thumbnail_url: "https://picsum.photos/600/600/?image=528",
+        lightbox_id: "lightbox-17",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=528",
+        lightbox_title: "No. <b>528</b> from Picsum"
+      },
+      {
+        id: 18,
+        thumbnail_url: "https://picsum.photos/600/600/?image=529",
+        lightbox_id: "lightbox-18",
+        lightbox_image_url: "https://picsum.photos/1920/1080/?image=529",
+        lightbox_title: "No. <b>529</b> from Picsum"
+      }
+    ] %}
+  
+    {% for item in gallery_items %}
+      <div>
+        <img src="{{ item.thumbnail_url }}"/>
+        <a href="#{{ item.lightbox_id }}">{{ item.id }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  
+  {% for item in gallery_items %}
+    <div class="lightbox" id="{{ item.lightbox_id }}">
+      <div class="content">
+        <img src="{{ item.lightbox_image_url }}"/>
+        <div class="title">{{ item.lightbox_title }}</div>
+        <a class="close" href="#gallery"></a>
+      </div>
+    </div>
   {% endfor %}
+  
+  
 
   <style>
     * {
