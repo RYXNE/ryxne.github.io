@@ -76,7 +76,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 ------
 
 ![Python logo](/images/python.png){: .align-right width="150px"}
-* Proficient in Python Programming with knowledge in libraries such as NumPy, Pandas, Matplotlib, Scipy.
+* Proficient in Python Programming with extensive knowledge of libraries such as NumPy, Pandas, Matplotlib, and Scipy. Additionally, experienced in utilizing these libraries for data analysis and visualization tasks to extract meaningful insights.
 
 ![SQL logo](/images/sql.jpg){: .align-left width="150px"}
 * Experienced in SQL, with knowledge of database management, data retrieval, manipulation, optimization, and analysis.
