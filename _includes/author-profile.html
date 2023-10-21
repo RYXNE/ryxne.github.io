@@ -6,6 +6,8 @@
 
 <!-- Core UI icon for LeetCode -->
 <link rel="stylesheet" href="path-to-coreui-icons/css/coreui-icons.css">
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -122,7 +124,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
         {% endif %}
       {% if author.leetcode %}
-        <li><a href="https://leetcode.com/{{ author.leetcode }}"><i class="ci ci-leetcode" aria-hidden="true"></i> LeetCode</a></li>
+        <li><a href="https://leetcode.com/{{ author.leetcode }}"><iconify-icon icon="cib:leetcode"></iconify-icon><i class="ci ci-leetcode" aria-hidden="true"></i> LeetCode</a></li>
 {% endif %}
     </ul>
   </div>
