@@ -390,7 +390,7 @@ collection: portfolio
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script>
 
 <div class="container">
-  <h2>Photo Gallery</h2>
+  <!-- <h2>Photo Gallery</h2> -->
 
   <div class="gallery">
     <a href="https://picsum.photos/600/600/?image=512" data-lightbox="gallery">
@@ -440,13 +440,19 @@ collection: portfolio
       color: #fff;
       padding: 10px;
       text-align: center;
-      display: none;
+      display: block; /* Initially set to display the caption */
     }
   
     /* Show the caption on hover */
     .gallery a:hover .caption {
       display: block;
     }
+  
+    /* Show the caption when the image is clicked */
+    .gallery a:focus .caption {
+      display: block;
+    }
   </style>
+  
   
   
