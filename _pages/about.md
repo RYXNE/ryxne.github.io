@@ -81,6 +81,9 @@ The main configuration file for the site is in the base directory in [_config.ym
 ![SQL logo](/images/sql.jpg){: .align-left width="150px"}
 * Experienced in SQL, with knowledge of database management, data retrieval, manipulation, optimization, and analysis.
 
+![Git logo](/images/git.png){: .align-right width="150px"}
+* Experience with Git has enhanced my collaboration skills in agile environments. Utilizing Git's version control features, I efficiently work with team members and track project file changes. This improves task management, boosts productivity, and streamlines workflows.
+
 
 <!-- Create content & metadata
 ------
