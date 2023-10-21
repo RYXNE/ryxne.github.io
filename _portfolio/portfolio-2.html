@@ -386,11 +386,11 @@ collection: portfolio
 
   <!-- -------------------------------------------------------------------------- -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script>
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script> -->
 
-<div class="container">
-  <!-- <h2>Photo Gallery</h2> -->
+<!-- <div class="container">
+  <h2>Photo Gallery</h2>
 
   <div class="gallery">
     <a href="https://picsum.photos/600/600/?image=512" data-lightbox="gallery">
@@ -404,9 +404,41 @@ collection: portfolio
     </a>
 
   </div>
-</div>
+</div> -->
 
-<style>
+<div class="gallery">
+    <a href="https://picsum.photos/600/600/?image=512" data-lightbox="gallery" data-title="Caption for Image 1">
+      <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
+    </a>
+    <a href="https://picsum.photos/600/600/?image=513" data-lightbox="gallery" data-title="Caption for Image 2">
+      <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
+    </a>
+    <a href="https://picsum.photos/600/600/?image=514" data-lightbox="gallery" data-title="Caption for Image 1">
+        <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
+      </a>
+      <a href="https://picsum.photos/600/600/?image=515" data-lightbox="gallery" data-title="Caption for Image 2">
+        <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
+      </a>
+      <a href="https://picsum.photos/600/600/?image=512" data-lightbox="gallery" data-title="Caption for Image 1">
+        <img src="https://picsum.photos/600/600/?image=512" alt="Image 1">
+      </a>
+      <a href="https://picsum.photos/600/600/?image=513" data-lightbox="gallery" data-title="Caption for Image 2">
+        <img src="https://picsum.photos/600/600/?image=513" alt="Image 2">
+      </a>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- Add Lightbox2 CSS and JS files -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+  <script>
+      lightbox.option({
+        'resizeDuration': 350,
+        'wrapAround': true
+      });
+    </script>
+
+<!-- <style>
     .container {
       text-align: center;
       margin: 20px;
@@ -452,7 +484,7 @@ collection: portfolio
     .gallery a:focus .caption {
       display: block;
     }
-  </style>
+  </style> -->
   
   
   
