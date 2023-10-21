@@ -84,6 +84,8 @@ The main configuration file for the site is in the base directory in [_config.ym
 ![Git logo](/images/git.png){: .align-right width="150px"}
 * Experience with Git has enhanced my collaboration skills in agile environments. Utilizing Git's version control features, I efficiently work with team members and track project file changes. This improves task management, boosts productivity, and streamlines workflows.
 
+![ML logo](/images/machinelearning.png){: .align-left width="150px"}
+* Skilled in a range of machine learning techniques, including regression analysis, and some knowledge of time series forecasting methods.
 
 <!-- Create content & metadata
 ------
